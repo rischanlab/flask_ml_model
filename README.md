@@ -10,6 +10,17 @@ Di project ini ada dua percobaan yaitu:
 </ol>
 
 
+### Iris: Gunakan command dibawah ini untuk mendapatkan prediksi iris
+``` 
+   curl -X POST \
+   0.0.0.0:80/predict \
+   -H 'Content-Type: application/json' \
+   -d '[5.9,3.0,5.1,1.8]'
+```
+
+### Sales: Langsung gunakan UI dari web flask untuk mendapatkan prediksi sales
+
+
 Flask bisa kita jalankan di laptop kita (i.e., localhost), bila masih ada waktu bisa mencoba menjalankan Flask dan deploy machine learning model kita di Cloud (AWS) 
 
 
