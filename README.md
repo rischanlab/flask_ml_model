@@ -25,3 +25,10 @@ Flask bisa kita jalankan di laptop kita (i.e., localhost), bila masih ada waktu 
 
 
 Video: Simple way to deploy machine learning model using Flask on AWS (Cloud) https://youtu.be/I7sIOG0jBzk
+
+
+Resources: 
+<ol>
+<li>https://towardsdatascience.com/simple-way-to-deploy-machine-learning-models-to-cloud-fd58b771fdcf</li>
+<li>https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4</li>
+</ol>
