@@ -9,6 +9,10 @@ Di project ini ada dua percobaan yaitu:
 <li>Prediksi Iris</li>
 </ol>
 
+### Pengenalan Python Flask, membuat website sederhana dengan Python Flask dan MySQL 
+Bisa coba repo ini https://github.com/rischanlab/crud_flask_mysql
+
+
 
 ### Iris: Gunakan command dibawah ini untuk mendapatkan prediksi iris
 ``` 
